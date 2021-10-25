@@ -1,7 +1,4 @@
 
-# Project Title
-
-A brief description of what this project does and who it's for
 
 # DoctorAI
 
@@ -24,3 +21,21 @@ patient related information for future diagnosis
 [![PostgreSQL PostgreSQL](https://img.shields.io/badge/Bootstrap-V.4-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
 [![PostgreSQL PostgreSQL](https://img.shields.io/badge/Sklearn-V--1.0-blue)](http://www.gnu.org/licenses/agpl-3.0)
 [![PostgreSQL PostgreSQL](https://img.shields.io/badge/Keras-V--2.6.0-yellowgreen)](http://www.gnu.org/licenses/agpl-3.0)
+
+
+  
+
+## Deployment
+
+To deploy this project & run
+
+```bash
+  - npm run build
+
+```
+```bash
+  - firebase  deploy
+  
+```
+
+  
